@@ -2,7 +2,8 @@
 
 I am chomp. I like to code stuff.
 
-Languages I know: HTML, Lua, Css, and some Javascript and Java
+Languages I know: HTML, Lua, CSS, and some Javascript and Java
+I develop roblox and minecraft stuff, also some discord bots
 
 Contact me on discord if u want lol (chomp#0986)
 
