@@ -1,6 +1,6 @@
-### Hello there!
+### Top 10 Skid Profiles
 
-I am chomp. I like to code stuff.
+Hi there, welcome to the worst dev's account.
 
 Languages I know: HTML, Lua, CSS, Javascript, Java and python <br>
 I really only have extensive knowledge in lua, the other languages i possess are of minimal use to me (except for java!) <br>
