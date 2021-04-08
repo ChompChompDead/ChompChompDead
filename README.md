@@ -1,8 +1,12 @@
-### Top 10 Skid Profiles
+### chomp is litterally dead
 
-Hi there, welcome to the worst dev's account. <br>
-Currently im learning java and making forge modifications because why not. 
+Chomp is dead (read header) <br>
+So, im chomp. I code and stuff blablablabla <br>
+TLDR; im only good at lua and i know some frontend and java. <br>
 
+#### What I know
+
+Currently im learning java and making forge modifications. 
 Languages I know: HTML, Lua, CSS, Javascript, Java and python <br>
 I really only have extensive knowledge in lua, the other languages i possess are of minimal use to me (except for java!) <br>
 I code roblox and minecraft stuff, also some discord bots <br>
