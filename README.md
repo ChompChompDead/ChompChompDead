@@ -1,8 +1,8 @@
 ### chomp the flip flop
 
 hi im chomp. I code and stuff <br>
-if you dont wanna read i know luuuaaa and jaavaaa and frontend with also some backend js <br>
-i am currently working on **FaxHack** and **Teddyware**, both java projects on forge 1.12.2 :) <br>
+if you dont wanna read i know lua and java and web frontend with also some backend nodejs <br>
+i am currently working on **FaxHack** (private) and [**Teddyware**](https://github.com/ChompChompDead/Teddyware), both java projects on forge 1.12.2 :) <br>
 
 #### What I know (and more)
 
