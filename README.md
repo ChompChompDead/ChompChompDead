@@ -2,15 +2,10 @@
 
 hi im chomp. I code and stuff <br>
 if you dont wanna read i know lua and java and web frontend with also some backend nodejs <br>
-i am currently working on **FaxHack** (private) and [**Teddyware**](https://github.com/ChompChompDead/Teddyware), both java projects on forge 1.12.2 :) <br>
-
 #### What I know (and more)
 
-Currently im learning java and making forge modifications. 
+currently im doing whatever i want (like for example python). 
 Languages I know: HTML, Lua, CSS, Javascript, Java and python <br>
-The only language i know is lua and (maybe im not sure) java. I used to do nodejs a few months ago <br>
-but i dont really anymore, and the frontend is just me messing around with websites. <br>
-I code roblox and minecraft stuff, also some discord bots <br>
 Anyways thats pretty much it <br>
 
 Contact me on discord if u want lol (chomp#0986)
