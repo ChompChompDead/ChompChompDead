@@ -4,7 +4,7 @@ hi im chomp. I code and stuff <br>
 if you dont wanna read i know lua and java and web frontend with also some backend nodejs <br>
 #### What I know (and more)
 
-currently im doing whatever i want (like for example python). 
+currently im doing whatever i want (like for example python). <br>
 Languages I know: HTML, Lua, CSS, Javascript, Java and python <br>
 Anyways thats pretty much it <br>
 
