@@ -1,6 +1,6 @@
 ### who am i
 
-hi im chomp and put my stuff i work on here
+hi im chomp and i put my stuff i work on here
 
 i like to start projects instead of finishing them so you'll see alot of things on here
 
