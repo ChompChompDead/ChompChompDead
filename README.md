@@ -6,7 +6,9 @@ i like to start projects instead of finishing them so you'll see alot of things 
 
 i want to learn new languages but currently i only really know lua and the html/css/frontend js pack
 
-please dont expect my repos to be something good. especially the java repos
+please dont expect my repos to be something original & good. especially the java repos
+
+thanks for reading my bio! have a good day
 
 contact me on discord if u want lol (chomp#0986)
 
